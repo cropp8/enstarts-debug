@@ -14,7 +14,7 @@ const spinner = `<div class="spinner"><div class="bounce1"></div><div class="bou
 
 (function (oissu, $, undefined) {
   console.log('pumpci debug script');
-  
+
   oissu.config = {
     bubble: false,
     image: false,
@@ -593,9 +593,9 @@ const spinner = `<div class="spinner"><div class="bounce1"></div><div class="bou
 
 window.addEventListener("load", function () {
   document.querySelector("head").innerHTML +=
-    '<link rel="stylesheet" href="https://r.tsukina.ga/c/oissu.css" type="text/css"/>';
+    '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/cropp8/enstarts-debug/oissu.css" type="text/css"/>';
   const script = document.createElement("script");
-  script.src = "https://r.tsukina.ga/c/bundle.js";
+  script.src = "https://cdn.jsdelivr.net/gh/cropp8/enstarts-debug/bundle.js";
   document.body.appendChild(script);
 
   script.addEventListener("load", function () {
