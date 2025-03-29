@@ -1,0 +1,217 @@
+{
+  "name": "Yumenosaki Winter Outfit",
+  "author": "Oi~ssu♪",
+  "deprecated": true,
+  "icons": [
+    {
+      "commonname": "Tomoya",
+      "fullname": "Tomoya Mashiro",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Tomoya.png"
+    },
+    {
+      "commonname": "Yuta",
+      "fullname": "Yuta Aoi",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Yuta.png"
+    },
+    {
+      "commonname": "Yuuta",
+      "fullname": "Yuuta Aoi",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Yuta.png"
+    },
+    {
+      "commonname": "Hinata",
+      "fullname": "Hinata Aoi",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Hinata.png"
+    },
+    {
+      "commonname": "Tori",
+      "fullname": "Tori Himemiya",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Tori.png"
+    },
+    {
+      "commonname": "Touri",
+      "fullname": "Touri Himemiya",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Tori.png"
+    },
+    {
+      "commonname": "Mitsuru",
+      "fullname": "Mitsuru Tenma",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Mitsuru.png"
+    },
+    {
+      "commonname": "Midori",
+      "fullname": "Midori Takamine",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Midori.png"
+    },
+    {
+      "commonname": "Hajime",
+      "fullname": "Hajime Shino",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Hajime.png"
+    },
+    {
+      "commonname": "Sora",
+      "fullname": "Sora Harukawa",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Sora.png"
+    },
+    {
+      "commonname": "Tetora",
+      "fullname": "Tetora Nagumo",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Tetora.png"
+    },
+    {
+      "commonname": "Shinobu",
+      "fullname": "Shinobu Sengoku",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Shinobu.png"
+    },
+    {
+      "commonname": "Tsukasa",
+      "fullname": "Tsukasa Suou",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Tsukasa.png"
+    },
+    {
+      "commonname": "Mao",
+      "fullname": "Mao Isara",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Mao.png"
+    },
+    {
+      "commonname": "Arashi",
+      "fullname": "Arashi Narukami",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Arashi.png"
+    },
+    {
+      "commonname": "Natsume",
+      "fullname": "Natsume Sakasaki",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Natsume.png"
+    },
+    {
+      "commonname": "Mika",
+      "fullname": "Mika Kagehira",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Mika.png"
+    },
+    {
+      "commonname": "Hokuto",
+      "fullname": "Hokuto Hidaka",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Hokuto.png"
+    },
+    {
+      "commonname": "Yuzuru",
+      "fullname": "Yuzuru Fushimi",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Yuzuru.png"
+    },
+    {
+      "commonname": "Adonis",
+      "fullname": "Adonis Otogari",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Adonis.png"
+    },
+    {
+      "commonname": "Koga",
+      "fullname": "Koga Oogami",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Koga.png"
+    },
+    {
+      "commonname": "Kouga",
+      "fullname": "Kouga Oogami",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Koga.png"
+    },
+    {
+      "commonname": "Subaru",
+      "fullname": "Subaru Akehoshi",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Subaru.png"
+    },
+    {
+      "commonname": "Makoto",
+      "fullname": "Makoto Yuuki",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Makoto.png"
+    },
+    {
+      "commonname": "Souma",
+      "fullname": "Souma Kanzaki",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Souma.png"
+    },
+    {
+      "commonname": "Wataru",
+      "fullname": "Wataru Hibiki",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Wataru.png"
+    },
+    {
+      "commonname": "Kuro",
+      "fullname": "Kuro Kiryu",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Kuro.png"
+    },
+    {
+      "commonname": "Kurou",
+      "fullname": "Kurou Kiryuu",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Kuro.png"
+    },
+    {
+      "commonname": "Eichi",
+      "fullname": "Eichi Tenshouin",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Eichi.png"
+    },
+    {
+      "commonname": "Kaoru",
+      "fullname": "Kaoru Hakaze",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Kaoru.png"
+    },
+    {
+      "commonname": "Izumi",
+      "fullname": "Izumi Sena",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Izumi.png"
+    },
+    {
+      "commonname": "Shu",
+      "fullname": "Shu Itsuki",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Shu.png"
+    },
+    {
+      "commonname": "Shuu",
+      "fullname": "Shuu Itsuki",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Shu.png"
+    },
+    {
+      "commonname": "Ritsu",
+      "fullname": "Ritsu Sakuma",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Ritsu.png"
+    },
+    {
+      "commonname": "Chiaki",
+      "fullname": "Chiaki Morisawa",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Chiaki.png"
+    },
+    {
+      "commonname": "Keito",
+      "fullname": "Keito Hasumi",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Keito.png"
+    },
+    {
+      "commonname": "Kanata",
+      "fullname": "Kanata Shinkai",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Kanata.png"
+    },
+    {
+      "commonname": "Tsumugi",
+      "fullname": "Tsumugi Aoba",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Tsumugi.png"
+    },
+    {
+      "commonname": "Madara",
+      "fullname": "Madara Mikejima",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Madara.png"
+    },
+    {
+      "commonname": "Leo",
+      "fullname": "Leo Tsukinaga",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Leo.png"
+    },
+    {
+      "commonname": "Nazuna",
+      "fullname": "Nazuna Nito",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Nazuna.png"
+    },
+    {
+      "commonname": "Rei",
+      "fullname": "Rei Sakuma",
+      "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/yns-winter-student-outfit/Rei.png"
+    }
+  ]
+}
